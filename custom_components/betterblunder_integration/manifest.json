@@ -1,0 +1,8 @@
+{
+  "codeowners": ["@betterblunder"],
+  "documentation": "https://github.com/betterblunder/test_hacs_integration",
+  "domain": "betterblunder_integration",
+  "issue_tracker": "https://github.com/betterblunder/test_hacs_integration/issues",
+  "name": "BetterBlunder's Custom Integration",
+  "version": "0.0.0"
+}
